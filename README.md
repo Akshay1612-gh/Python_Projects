@@ -1,4 +1,4 @@
-# Python_Projects
+# Python_Project
 Uber Ride Analysis Using Python
 Overview:-
 This project aims to analyze Uber ride data to understand various trends and patterns in ride bookings. By leveraging Python and its libraries, we address several key logistical challenges faced by Uber, including accurate ETA estimation, dynamic pricing, route optimization, driver and rider matching, and fraud detection.
